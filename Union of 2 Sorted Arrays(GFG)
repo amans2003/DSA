@@ -26,7 +26,7 @@ class Solution {
                    result.add(a[i]);
                    }
                    i++;
-                   j++;
+                   j++; (optional)
                }
            }
            while(i<n){
